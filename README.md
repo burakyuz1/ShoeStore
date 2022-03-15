@@ -6,6 +6,7 @@ After cloning or downloading the project, you need to using database update comm
 * Update-Database -Context StoreContext
 * Update-Database -Context AppIdentityDbContext
 ```
+![image](https://raw.githubusercontent.com/burakyuz1/ShoeStore/main/usage.png?token=GHSAT0AAAAAABROC7M7YPGJREKLGVE3LERWYRQPESA)
 
 ### Project Structure
 ```
