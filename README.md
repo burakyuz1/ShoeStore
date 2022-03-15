@@ -2,6 +2,10 @@
 
 ### Running the Sample
 After cloning or downloading the project, you need to using database update commands (just below). Postgre SQL is used in the project.
+```
+* Update-Database -Context StoreContext
+* Update-Database -Context AppIdentityDbContext
+```
 
 ### Project Structure
 ```
